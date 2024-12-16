@@ -1,0 +1,53 @@
+site_name: CMAP Docs
+site_url: https://yauhenitalochkan.github.io/CMAP_Docs/
+nav:
+  - Home: index.md
+  - Installation: install.md
+  - Processes: processes.md
+  - 'QE applications': QE_examples.md
+  - References: references.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  logo: images/Logo2.png
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: deep purple
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: deep purple
+
+
+plugins:
+  - glightbox
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/scroll-to-top.js
+
+copyright: |
+  &copy; 2024 <a href="https://yauhenitalochkan.github.io/MyWebSite/"  target="_blank" rel="noopener">Yauheni Talochka</a>

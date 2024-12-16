@@ -1,0 +1,14 @@
+# Installation guide
+<div style="text-align: justify;">
+The code is available from <a href="https://github.com/YauheniTalochkaN"  target="_blank" rel="noopener">the author</a> upon reasonable request.
+Before compiling the CMAP code, the <a href="https://root.cern/"  target="_blank" rel="noopener">CERN ROOT toolkit</a> and <a href="https://www.openmp.org/"  target="_blank" rel="noopener">OpenMP library</a> must be installed in your system.
+After that, the CMAP toolkit can be compiled as 
+```
+cd CMAP
+mkdir build
+cd build
+cmake ../
+make -jN
+make install
+```
+</div>
