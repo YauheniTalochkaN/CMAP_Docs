@@ -48,7 +48,7 @@ The Kramers-Kronig relations can be used to obtain the real part $\varepsilon_{1
 <center>  
 $\varepsilon_{1}(\omega, q) = 1 + \frac{2}{\pi} \mathcal{P} \int_{0}^{\infty} \frac{\omega' \varepsilon_{2}(\omega', q)}{\omega'^{2}-\omega^{2}} d \omega'$.
 </center>
-
+<br>
 <div style="text-align:center">
   <img src="../images/Energy_loss_function_in_LYSO.png" alt="" width="700">
   <figcaption>Energy loss function in LYSO scintillators.</figcaption>
@@ -109,7 +109,7 @@ $\tau_{ph, _{abs}^{em}, disorder}^{-1} = \frac{1}{V} \int_{V} \tau_{ph, _{abs}^{
 with 
 
 <center> 
-$\tilde{E}_{0}(\vec{r}) = E_{0}(\vec{r}) - <E_{0}>_{V}$.
+$\tilde{E}_{0}(\vec{r}) = E_{0}(\vec{r}) - < E_{0} >_{V}$.
 </center>
 
 The semiclassical confining potential $E_{0}(\vec{r})$ can be obtained by solving the following equation:
