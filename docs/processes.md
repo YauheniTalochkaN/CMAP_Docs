@@ -1,4 +1,5 @@
 ## List of processes
+In this section the list of processes implemented in CMAP and methods to obtain input data are described. 
 <div style="text-align:center">
   <img src="../images/Process_diagram.png" alt="" width="700">
   <br>
@@ -169,26 +170,8 @@ where $E_{k,i}$ and $E_{k,j}$ are the kinetic energies of ith and jth carriers, 
 The electron-hole or exciton recombination into a photon is described by empirical parameters.
 </div>
 
-## Exciton decay
-
-
-## Excitation capture and transfer
+## Excitation capture and decay
 <div style="text-align: justify;">
-The black-capture-sphere model can used to estimate the probability of carrier capture by emission centers [4].
-<br>
-<br>
-The excitation transfer rate $w_{T_{1} \rightarrow T_{2}}$ from donor $T_{1}$ to acceptor $T_{2}$ separated by the distance $r$ is calculated as follows [8]: 
+Usually, the capture rate and the decay time for a certain excitation in a certain matrix host can be obtained experimentally. 
+Additionally, the DFT approach can be used to properly obtain such quantities.
 </div>
-<center> 
-$w_{T_{1} \rightarrow T_{2}} = \frac{1}{\tau_{T_{1}}} \frac{R^{6}_{d-d, T_{1} \rightarrow T_{2}}}{r^{6}} + c_{T_{1} \rightarrow T_{2}} e^{-2 \frac{r}{\alpha_{T_{1} \rightarrow T_{2}}}}$,
-</center>
-<div style="text-align: justify;">
-where $\tau_{T_{1}}$ is the emission decay time of donor state $T_{1}$, $R_{d-d, T_{1} \rightarrow T_{2}}$ is the dipole-dipole transfer radius between donor state $T_{1}$ and acceptor state $T_{2}$, $\alpha_{T_{1} \rightarrow T_{2}}$ is the Dexter transfer radius, and $c_{T_{1} \rightarrow T_{2}}$ is the frequency factor.
-</div>
-
-## Activation center decay 
-<div style="text-align: justify;">
-Usually the decay time of a certain activation center in a certain matrix host can be obtained experimentally and then used for general simulation.
-</div>
-
-## Light propagation and absorption
