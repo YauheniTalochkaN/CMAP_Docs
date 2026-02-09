@@ -3,8 +3,6 @@ In this section the list of processes implemented in CMAP and methods to obtain 
 <div style="text-align:center">
   <img src="../images/Process_diagram.png" alt="" width="700">
   <figcaption>Relaxation routes of electronic excitations in inorganic crystalline scintillators: $e$ is an electron, $h$ is a hole, $ph$ is a phonon, $h\nu$ is a photon, $V_k$ is a self-trapped hole, $STE$ is a self-trapped exciton, and $c$ is an emission center.</figcaption>
-  <br>
-  <br>
 </div>
 
 ## Inelastic electron scattering
