@@ -1,6 +1,8 @@
 ## List of processes
+<div style="text-align: justify;">
 In this section the list of processes implemented in CMAP and methods to obtain input data are described. 
 The Wolfram Language notebooks implementing methods to obtain the input files required by the target package are available in the [`/scripts` directory of the CMAP_Library repository](https://github.com/YauheniTalochkaN/CMAP_Library/tree/main/scripts).
+</div>
 <div style="text-align:center">
   <img src="../images/Process_diagram.png" alt="" width="700">
   <figcaption>Relaxation routes of electronic excitations in crystalline materials: $e$ is an electron, $h$ is a hole, $ph$ is a phonon, $h\nu$ is a photon, $V_k$ is a self-trapped hole, $STE$ is a self-trapped exciton, and $c$ is an emission center.</figcaption>
