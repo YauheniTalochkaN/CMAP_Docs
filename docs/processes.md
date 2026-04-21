@@ -101,7 +101,7 @@ $\beta = 4 \pi \frac{e_{14}}{\varepsilon_{st}}$, $k = \frac{1}{4 \pi \varepsilon
 Here, $m^{*}$  is the effective electron(hole) mass, $\Omega_{LO,s}$ is the longitudinal optical phonon frequency, $\varepsilon_{0}$ is the vacuum permittivity, $e$ is the electron charge, $k_{B}$ is the Boltzmann constant, $\tilde{\varepsilon}_{s}$ is the effective dielectric permittivity, $\rho$ is the crystal density, $c_{L}$ is the longitudinal sound velocity, $\sigma_{d}$ is the acoustical deformation potential, $e_{14}$ is the piezoelectric constant, $\varepsilon_{st}$ is the static dielectric permittivity, $\lambda^{2}_{TF}$ is the Thomas-Fermi screening length. 
 <br>
 <br>
-The electron(hole)-phonon scattering rate $\tau_{ph, _{abs}^{em}, disorder}^{-1}$ in a substitutional solid solution can be calculated by integrating $\tau_{ph, _{abs}^{em}}^{-1}$ with the semiclassical confining potential $E_{0}(\vec{r})[6], which is evaluated using the local landscape method [7]:
+The electron(hole)-phonon scattering rate $\tau_{ph, _{abs}^{em}, disorder}^{-1}$ in a substitutional solid solution can be calculated by integrating $\tau_{ph, _{abs}^{em}}^{-1}$ with the semiclassical confining potential $E_{0}(\vec{r})$[6], which is evaluated using the local landscape method [7]:
 </div>
 <center> 
 $\tau_{ph, _{abs}^{em}, disorder}^{-1} = \frac{1}{V} \int_{V} \tau_{ph, _{abs}^{em}}^{-1}(E + \tilde{E}_{0}(\vec{r})) d^{3}r$,
