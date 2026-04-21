@@ -1,18 +1,19 @@
 # References
+
 <div style="text-align: justify;">
-[1] <a href="https://doi.org/10.1007/978-3-319-68465-9_1"  target="_blank" rel="noopener">A. N. Vasil’ev, “Microtheory of Scintillation in Crystalline Materials,” in Engineering of Scintillation Materials and Radiation Technologies, M. Korzhik and A. Gektin, Eds., in Springer Proceedings in Physics. Cham: Springer International Publishing, 2017, pp. 3–34</a>.
+[1] A. N. Vasil’ev, <a href="https://doi.org/10.1007/978-3-319-68465-9_1"  target="_blank" rel="noopener">Microtheory of Scintillation in Crystalline Materials</a>, Engineering of Scintillation Materials and Radiation Technologies, ISMART 2016, Springer Proceedings in Physics, vol 200, pp. 3-34.
 <br>
-[2] <a href="https://doi.org/10.1088/1361-648X/aa8f79"  target="_blank" rel="noopener">P. Giannozzi et al., Advanced capabilities for materials modelling with Quantum ESPRESSO, J. Phys. Condens. Matter. 29 (2017) 465901</a>.
+[2] P. Giannozzi et al., <a href="https://doi.org/10.1088/1361-648X/aa8f79"  target="_blank" rel="noopener">Advanced capabilities for materials modelling with Quantum ESPRESSO</a>, Journal of Physics: Condensed Matter, vol. 29, no. 46, p. 465901, Oct. 2017.
 <br>
-[3] <a href="https://doi.org/10.2172/15013373"  target="_blank" rel="noopener">S. T. Perkins and D. E. Cullen, “ENDL Type Formats for the LLNL Evaluated Atomic Data Library (EADL), Evaluated Electron Data Library (EEDL), and Evaluated Photon Data Library (EPDL),” Lawrence Livermore National Lab. (LLNL), Livermore, CA (United States), UCRL-ID-117796-REV-1, May 2002</a>.
+[3] S. T. Perkins and D. E. Cullen, <a href="https://doi.org/10.2172/15013373"  target="_blank" rel="noopener">ENDL Type Formats for the LLNL Evaluated Atomic Data Library (EADL), Evaluated Electron Data Library (EEDL), and Evaluated Photon Data Library (EPDL)</a>, Lawrence Livermore National Lab. (LLNL), Livermore, CA (United States), UCRL-ID-117796-REV-1, May 2002.
 <br>
-[4] <a href="https://doi.org/10.1007/978-3-030-21966-6"  target="_blank" rel="noopener">M. Korzhik, G. Tamulaitis, and A. N. Vasil’ev, Physics of Fast Processes in Scintillators. in Particle Acceleration and Detection. Cham: Springer International Publishing, 2020</a>.
+[4] M. Korzhik, G. Tamulaitis, and A. N. Vasil’ev, <a href="https://doi.org/10.1007/978-3-030-21966-6"  target="_blank" rel="noopener">Physics of Fast Processes in Scintillators</a>, Particle Acceleration and Detection, Springer Cham, 2020.
 <br>
-[5] <a href="https://doi.org/10.1109/TNS.2012.2194306"  target="_blank" rel="noopener">R. Kirkin, V. V. Mikhailin, and A. N. Vasil’ev, “Recombination of Correlated Electron–Hole Pairs With Account of Hot Capture With Emission of Optical Phonons,” IEEE Trans. Nucl. Sci., vol. 59, no. 5, pp. 2057–2064, Oct. 2012</a>.
+[5] R. Kirkin, V. V. Mikhailin, and A. N. Vasil’ev, <a href="https://doi.org/10.1109/TNS.2012.2194306"  target="_blank" rel="noopener">Recombination of Correlated Electron–Hole Pairs With Account of Hot Capture With Emission of Optical Phonons</a>, IEEE Trans. Nucl. Sci., vol. 59, no. 5, pp. 2057–2064, Oct. 2012.
 <br>
-[6] <a href="https://doi.org/10.1063/5.0098905"  target="_blank" rel="noopener">Y. Talochka, A. Vasil’ev, M. Korzhik, and G. Tamulaitis, “Impact of compositional disorder on electron migration in lutetium–yttrium oxyorthosilicate scintillator,” J. Appl. Phys., vol. 132, no. 5, p. 053101, Aug. 2022</a>.
+[6] Y. Talochka, R. Aleksiejūnas, Ž. Podlipskas, J. Mickevičius, and G. Tamulaitis, <a href="https://doi.org/10.1016/j.jallcom.2023.172475" target="_blank" rel="noopener">Evaluation of ambipolar diffusion coefficient in Al<sub>x</sub>Ga<sub>1−x</sub>N semiconductor</a>, Journal of Alloys and Compounds, vol. 969, p. 172475, 2023.
 <br>
-[7] <a href="https://doi.org/10.1103/PhysRevB.95.144206"  target="_blank" rel="noopener">C.-K. Li, M. Piccardo, L.-S. Lu, S. Mayboroda, L. Martinelli, J. Peretti, J.S. Speck, C. Weisbuch, M. Filoche, Y.-R. Wu, Localization landscape theory of disorder in semiconductors. III. Application to carrier transport and recombination in light emitting diodes, Phys. Rev. B. 95 (2017) 144206</a>.
+[7] C.-K. Li, M. Piccardo, L.-S. Lu, S. Mayboroda, L. Martinelli, J. Peretti, J.S. Speck, C. Weisbuch, M. Filoche, and Y.-R. Wu, <a href="https://doi.org/10.1103/PhysRevB.95.144206"  target="_blank" rel="noopener">Localization landscape theory of disorder in semiconductors. III. Application to carrier transport and recombination in light emitting diodes</a>, Phys. Rev. B., vol 95, p. 144206, Apr. 2017.
 <br>
-[8] <a href="https://doi.org/10.3390/cryst12091196"  target="_blank" rel="noopener">Korzhik, M., Retivov, V., Bondarau, A., Dosovitskiy, G., Dubov, V., Kamenskikh, I., Karpuk, P., Kuznetsova, D., Smyslova, V., Mechinsky, V., Pustovarov, V., Tavrunov, D., Tishchenko, E., Vasil’ev, A., 2022. Role of the Dilution of the Gd Sublattice in Forming the Scintillation Properties of Quaternary (Gd,Lu)3Al2Ga3O12:Ce Ceramics. Crystals 12, 1196</a>.
+[8] Y. Talochka, A. Vasil’ev, M. Korzhik, and G. Tamulaitis, <a href="https://doi.org/10.1063/5.0098905"  target="_blank" rel="noopener">Impact of compositional disorder on electron migration in lutetium–yttrium oxyorthosilicate scintillator</a>, J. Appl. Phys., vol. 132, no. 5, p. 053101, Aug. 2022.
 </div>

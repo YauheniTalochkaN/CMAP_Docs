@@ -1,5 +1,6 @@
 ## List of processes
 In this section the list of processes implemented in CMAP and methods to obtain input data are described. 
+The Wolfram Language notebooks implementing methods to obtain the input files required by the target package are available in the [`/scripts` directory of the CMAP_Library repository](https://github.com/YauheniTalochkaN/CMAP_Library/tree/main/scripts).
 <div style="text-align:center">
   <img src="../images/Process_diagram.png" alt="" width="700">
   <figcaption>Relaxation routes of electronic excitations in crystalline materials: $e$ is an electron, $h$ is a hole, $ph$ is a phonon, $h\nu$ is a photon, $V_k$ is a self-trapped hole, $STE$ is a self-trapped exciton, and $c$ is an emission center.</figcaption>
@@ -78,7 +79,7 @@ Here, $g_{h}(E)$ is the density of states in the valence and core bands of a cry
 
 ## Electron(hole)-phonon scattering
 <div style="text-align: justify;">
-DFT packages such as Quantum Espresso [2] can be used to calculate the carrier-phonon scattering rate with high accuracy for both single crystals and substitutional solid solutions.
+DFT packages such as Quantum Espresso can be used to calculate the carrier-phonon scattering rate with high accuracy for both single crystals and substitutional solid solutions.
 <br>
 <br>
 The electron(hole)-phonon scattering rate $\tau_{ph, _{abs}^{em}}^{-1}$ can be evaluated assuming the single parabolic band approximation in the approximations of the Fröhlich polarization and the deformational potential [5]:
@@ -100,7 +101,7 @@ $\beta = 4 \pi \frac{e_{14}}{\varepsilon_{st}}$, $k = \frac{1}{4 \pi \varepsilon
 Here, $m^{*}$  is the effective electron(hole) mass, $\Omega_{LO,s}$ is the longitudinal optical phonon frequency, $\varepsilon_{0}$ is the vacuum permittivity, $e$ is the electron charge, $k_{B}$ is the Boltzmann constant, $\tilde{\varepsilon}_{s}$ is the effective dielectric permittivity, $\rho$ is the crystal density, $c_{L}$ is the longitudinal sound velocity, $\sigma_{d}$ is the acoustical deformation potential, $e_{14}$ is the piezoelectric constant, $\varepsilon_{st}$ is the static dielectric permittivity, $\lambda^{2}_{TF}$ is the Thomas-Fermi screening length. 
 <br>
 <br>
-The electron(hole)-phonon scattering rate $\tau_{ph, _{abs}^{em}, disorder}^{-1}$ in a substitutional solid solution can be calculated by integrating $\tau_{ph, _{abs}^{em}}^{-1}$ with the semiclassical confining potential $E_{0}(\vec{r})$, which is evaluated using the local landscape method [7]:
+The electron(hole)-phonon scattering rate $\tau_{ph, _{abs}^{em}, disorder}^{-1}$ in a substitutional solid solution can be calculated by integrating $\tau_{ph, _{abs}^{em}}^{-1}$ with the semiclassical confining potential $E_{0}(\vec{r})[6], which is evaluated using the local landscape method [7]:
 </div>
 <center> 
 $\tau_{ph, _{abs}^{em}, disorder}^{-1} = \frac{1}{V} \int_{V} \tau_{ph, _{abs}^{em}}^{-1}(E + \tilde{E}_{0}(\vec{r})) d^{3}r$,
@@ -133,7 +134,7 @@ Here, $u(\vec{r})$ is the disorder-induced potential fluctuations in the quasic
 
 ## Alloy scattering
 <div style="text-align: justify;">
-The alloy scattering rate $\tau_{el}^{-1}$ in crystalline compound can be calculated using the CPA-based method [6]:
+The alloy scattering rate $\tau_{el}^{-1}$ in crystalline compound can be calculated using the CPA-based method [8]:
 </div>
 <center> 
 $\hat{H}_{vc} = x \hat{H}^{AC} + (1-x) \hat{H}^{BC}$,
