@@ -1,7 +1,7 @@
 ## List of processes
 <div style="text-align: justify;">
 In this section the list of processes implemented in CMAP and methods to obtain input data are described. 
-The Wolfram Language notebooks implementing methods to obtain the input files required by the target package are available in the [`/scripts` directory of the CMAP_Library repository](https://github.com/YauheniTalochkaN/CMAP_Library/tree/main/scripts).
+The Wolfram Language notebooks implementing methods to obtain the input files required by the target package are available in the <a href="https://github.com/YauheniTalochkaN/CMAP_Library/tree/main/scripts"  target="_blank" rel="noopener">scripts</a> directory.
 </div>
 <div style="text-align:center">
   <img src="../images/Process_diagram.png" alt="" width="700">
